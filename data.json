@@ -1,0 +1,9 @@
+{
+"players": {},
+"game":{
+  "p1":"",
+"p2": "",
+"running": false,
+"lastWinner": ""
+}
+}
