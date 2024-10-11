@@ -1,9 +1,1 @@
-{
-"players": {},
-"game":{
-  "p1":"",
-"p2": "",
-"running": false,
-"lastWinner": ""
-}
-}
+{"players":{"Ricardinho":0},"game":{"p1":"","p2":"","running":false,"lastWinner":""}}
